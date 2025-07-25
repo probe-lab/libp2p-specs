@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(ln:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:docs.rs)"
+    ],
+    "deny": []
+  }
+}
